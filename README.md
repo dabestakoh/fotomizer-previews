@@ -42,7 +42,7 @@ The repository also contains generated `preview-<channel>` branches holding upda
 
 ## Moving from earlier Preview builds
 
-Earlier Preview builds checked the official releases repository. Its final transition Preview switches subsequent checks to this repository, using the same package and test signing key. You can also install a newer Preview APK from here directly over the old Preview app.
+Earlier Preview builds were hosted in the official releases repository. New Preview APKs and update feeds live only here. Install a new Preview APK directly from this repository; it checks this repository for future updates. The old feed is retained unchanged and does not redirect automatically.
 
 ## Share useful feedback
 
