@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "packageName": "com.fotomizer.app.preview",
+  "versionName": "1.4.10-preview.repo.1",
+  "versionCode": 1000004,
+  "channel": "preview",
+  "previewChannel": "f6295cc4111b8e8ecc75367dbded0e4a7de60f806317acf396d3311a5904caae",
+  "branch": "chore/branch-preview-apks",
+  "sourceBranch": "chore/separate-preview-repository",
+  "commit": "61f1a93e7b4b2aa6cc2ff9f672c9b8e914ab345e",
+  "apkFileName": "Fotomizer-1.4.10-preview.repo.1.apk",
+  "apkSizeBytes": 437542633,
+  "sha256": "a089496f038f46faf003414cf9a7df6cbb0d3d0f2e9f948feacbf113a0a26492",
+  "signingCertificateSha256": "ce84247fbc5850ff77f22b638f832240522d114c47d58fca3aaba75b2c7d4b4a",
+  "apkUrl": "https://github.com/dabestakoh/fotomizer-previews/releases/download/v1.4.10-preview.repo.1/Fotomizer-1.4.10-preview.repo.1.apk",
+  "releaseNotes": "- Move Preview APK downloads and branch update feeds to fotomizer-previews.\n- Keep Fotomizer Preview installed beside the official app with the same test signing identity.\n- Include the merged settings alignment and collage 4:3 preset fixes."
+}
